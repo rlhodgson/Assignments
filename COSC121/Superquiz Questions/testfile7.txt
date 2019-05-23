@@ -1,0 +1,24 @@
+<head>
+    name:Ronny Currie
+    account status:active
+</head>
+<data>
+    2016-05-18,Led Zeppelin,67.75
+    2016-10-13,Talking Heads,63.0
+    2016-11-23,The Dillards,24.15
+    2016-12-05,Rascal Flatts,23.75
+    2016-12-17,The Weavers,42.0
+    2017-02-13,Love,22.75
+    2017-02-19,Daft Punk,43.0
+    2017-04-09,Black Sabbath,50.0
+    2017-04-16,Rage Against the Machine,72.15
+    2017-08-22,The Bee Gees,37.25
+    2017-12-15,Cream,37.25
+    2018-01-12,Calle 13,19.5
+    2018-04-26,The Moonglows,95.25
+    2018-06-03,Kool and the Gang,30.5
+    2018-06-11,Radiohead,98.25
+    2018-08-13,The Andrews Sisters,75.25
+    2018-08-25,Modest Mouse,31.25
+    2019-01-22,Queen,29.25
+</data>

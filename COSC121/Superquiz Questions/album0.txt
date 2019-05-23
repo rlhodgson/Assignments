@@ -1,0 +1,57 @@
+<album>
+323
+Licensed to Ill
+Beastie Boys
+25.0
+</album>
+
+
+
+<album>
+70
+Enter the Wu_Tang: 36 Cham...
+Wu Tang Clan
+25.99
+</album>
+turning to Alice, she went on, `What's your name, child?'
+
+and there stood the Queen in front of them, with her arms folded,
+<album>
+115
+Daydream Nation
+Sonic Youth
+5.0
+</album>
+
+<album>
+414
+52nd Street
+Billy Joel
+25.75
+</album>
+
+
+<sales>
+2010-06-09,115,8255
+2015-03-15,70,6264
+2010-08-09,323,684
+2012-01-06,323,7340
+2009-01-01,414,13164
+2017-04-02,70,3259
+2015-06-05,323,2378
+2015-03-05,115,9463
+2010-12-10,414,12952
+2013-05-29,323,1687
+2013-04-07,115,1594
+2015-10-19,70,1469
+2011-10-07,414,10867
+2006-04-14,115,5806
+2014-11-27,70,9864
+2006-08-22,323,7088
+2017-12-19,115,5970
+2012-04-16,414,16813
+2007-05-13,414,11626
+2006-09-18,70,2641
+2006-12-29,323,5578
+</sales>
+

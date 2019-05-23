@@ -1,0 +1,27 @@
+<head>
+    name:Elfrieda Schreffler
+    account status:active
+</head>
+<data>
+    2016-01-11,Sam and Dave,42.0
+    2016-03-03,The Mekons,43.5
+    2016-06-07,Sleater-Kinney,41.0
+    2016-06-18,ZZ Top,23.0
+    2016-09-10,The Jefferson Airplane,51.0
+    2016-10-20,AC/DC,900.25
+    2016-10-29,Led Zeppelin,27.75
+    2016-12-06,Coldplay,66.0
+    2016-12-29,Ladysmith Black Mambazo,18.15
+    2017-01-04,The Four Tops,96.75
+    2017-02-03,Kraftwerk,21.25
+    2017-03-17,Steely Dan,71.75
+    2017-05-22,The Pet Shop Boys,50.0
+    2017-05-30,The White Stripes,88.25
+    2017-12-19,Green Day,87.0
+    2018-03-10,Yes,20.75
+    2018-05-19,Santana,22.75
+    2018-07-23,The Band,400.0
+    2018-09-13,Peter; Paul and Mary,200.0
+    2018-11-05,Grandmaster Flash and the Furious Five,700.15
+    2018-11-14,The Yardbirds,84.0
+</data>

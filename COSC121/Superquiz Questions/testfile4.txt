@@ -1,0 +1,20 @@
+<head>
+    name:Deandre Seybold
+    account status:deleted
+</head>
+<data>
+    2016-01-15,The Beatles,33.15
+    2016-04-19,The Ohio Players,14.15
+    2016-09-10,Dire Straits,16.25
+    2016-09-23,Wilco,24.75
+    2016-12-20,Pink Floyd,36.0
+    2017-05-29,Daft Punk,32.5
+    2017-06-07,Fleetwood Mac,82.15
+    2018-01-05,The Orioles,72.5
+    2018-01-09,Genesis,25.15
+    2018-01-09,The Moody Blues,96.0
+    2018-08-16,Sonic Youth,27.0
+    2018-10-10,Steely Dan,39.5
+    2019-04-10,The Strokes,86.5
+    2019-04-14,Aerosmith,62.5
+</data>

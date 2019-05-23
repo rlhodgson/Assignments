@@ -1,0 +1,12 @@
+Angus McGurkinshaw's Fitness Programme Results
+Diet for the week: a banana and 5 glasses of distilled water per day
+3, 2, 1
+Zero let's go ...
+<begin step data>
+23, 37, 44, 91
+11, 80, 5, 9, 4
+23, 13, 5, 6
+24
+<end step data>
+1, 2, 3
+All done now

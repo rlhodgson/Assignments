@@ -1,0 +1,59 @@
+<album>
+445
+12 Songs
+Randy Newman
+20.75
+</album>
+
+<album>
+291
+Cheap Trick at Budokan
+Cheap Trick
+25.5
+</album>
+crept a little way out of the wood to listen.
+such confusion that she never knew whether it was her turn or
+
+  `Why,' said the Dodo, `the best way to explain it is to do it.'
+<album>
+207
+Good Old Boys
+Randy Newman
+35.5
+</album>
+
+<album>
+216
+All the Young Dudes
+Mott the Hoople
+25.0
+</album>
+Some of the birds hurried off at once:  one old Magpie began
+<sales>
+2014-08-18,291,3290
+2014-12-10,216,8571
+2009-08-06,207,4894
+2017-12-04,445,774
+2010-06-17,207,8012
+2016-11-10,291,3851
+2012-07-04,291,9997
+2016-11-06,445,3866
+2012-10-10,216,11404
+2016-06-22,216,8393
+2016-04-07,207,5836
+2014-06-14,216,6707
+2017-03-05,216,8164
+2017-09-27,445,2956
+2017-09-16,216,11508
+2012-12-08,216,7101
+2008-06-07,207,6340
+2012-05-31,207,502
+2007-11-13,216,11664
+2015-04-24,445,3185
+2018-05-10,291,3470
+2018-01-29,445,1513
+2015-02-22,291,5345
+2007-08-26,207,1916
+</sales>
+
+

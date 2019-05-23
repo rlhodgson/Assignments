@@ -1,0 +1,28 @@
+<head>
+    name:Celsa Dorsett
+    account status:suspended
+</head>
+<data>
+    2016-03-18,Queen,6.0
+    2016-04-24,Traffic,11.0
+    2016-06-02,The Andrews Sisters,73.5
+    2016-08-03,Television,29.0
+    2016-11-09,The Beastie Boys,25.15
+    2016-11-28,The Decemberists,10.5
+    2016-12-24,The Beach Boys,66.5
+    2017-01-07,Def Leppard,87.5
+    2017-04-25,Pink Floyd,43.25
+    2017-06-22,The Replacements,63.0
+    2017-10-06,The Soul Stirrers,27.5
+    2017-11-09,Guns N’ Roses,59.0
+    2018-01-13,Mumford & Sons,90.15
+    2018-01-21,Poco,6.75
+    2018-03-27,Kraftwerk,69.5
+    2018-04-22,Alice Cooper,49.0
+    2018-10-27,The MC5,21.5
+    2018-12-16,The White Stripes,86.0
+    2019-01-12,The Chemical Brothers,5.25
+    2019-01-22,The Staple Singers,500.5
+    2019-02-21,TV on the Radio,33.15
+    2019-03-15,Rascal Flatts,300.25
+</data>

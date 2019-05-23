@@ -1,0 +1,22 @@
+<head>
+    name:Coretta Timko
+    account status:suspended
+</head>
+<data>
+    2016-01-01,Yes,23.5
+    2016-03-30,Queen,27.25
+    2016-05-10,Sonic Youth,51.5
+    2016-06-12,Kool and the Gang,61.0
+    2016-11-12,Dion and the Belmonts,44.75
+    2016-12-18,The Mamas and the Papas,40.5
+    2017-01-25,The Shirelles,600.75
+    2017-02-22,The Doors,49.0
+    2017-05-17,The Jefferson Airplane,72.0
+    2017-09-02,Metallica,27.25
+    2017-09-16,X,14.15
+    2018-01-02,Little Anthony and the Imperials,40.0
+    2018-02-25,Brooks & Dunn,60.0
+    2018-06-10,The Flamingos,76.5
+    2018-10-01,Black Flag,10.0
+    2018-12-31,Big Star,36.0
+</data>

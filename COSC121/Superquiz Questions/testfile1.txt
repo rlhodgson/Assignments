@@ -1,0 +1,23 @@
+<head>
+    name:Donette Sommers
+    account status:suspended
+</head>
+<data>
+    2016-05-22,Hüsker Dü,38.25
+    2016-05-25,Fleetwood Mac,99.15
+    2016-09-20,Pearl Jam,11.0
+    2016-10-04,Run-D.M.C.,64.5
+    2016-11-03,Yes,76.0
+    2016-12-12,Earth; Wind & Fire,77.0
+    2017-02-11,Joy Division,88.5
+    2017-07-01,The Clash,25.5
+    2018-01-17,The Shadows,44.25
+    2018-02-10,The Mamas and the Papas,45.75
+    2018-04-09,The Isley Brothers,26.25
+    2018-06-15,Fugazi,72.5
+    2018-06-28,The Bee Gees,300.5
+    2019-01-01,The Moody Blues,44.5
+    2019-01-13,Puffy AmiYumi,92.15
+    2019-02-18,Pavement,18.25
+    2019-03-23,The Soul Stirrers,42.5
+</data>

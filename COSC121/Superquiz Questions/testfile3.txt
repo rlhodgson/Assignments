@@ -1,0 +1,19 @@
+<head>
+    name:Boyd Barbe
+    account status:deleted
+</head>
+<data>
+    2016-03-21,Queen,36.0
+    2016-06-18,Booker T. and the MG’s,28.5
+    2016-08-14,Talking Heads,66.0
+    2016-08-14,X,61.0
+    2016-10-12,The Clash,83.15
+    2016-10-24,The Isley Brothers,93.5
+    2016-12-02,Modest Mouse,39.0
+    2017-10-20,Pink Floyd,14.25
+    2017-12-08,Guns N’ Roses,33.0
+    2018-01-23,Red Hot Chili Peppers,65.75
+    2018-02-23,Steely Dan,70.0
+    2018-07-01,The Shadows,27.25
+    2018-09-30,The Allman Brothers Band,39.75
+</data>

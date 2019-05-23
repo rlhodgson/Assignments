@@ -1,0 +1,79 @@
+<album>
+403
+69 Love Songs
+The Magnetic Fields
+35.95
+</album>
+
+
+<album>
+333
+Damn the Torpedoes
+Tom Petty and the Heartbre...
+10.0
+</album>
+
+<album>
+66
+John Lennon/Plastic Ono Band
+John Lennon / Plastic Ono ...
+5.0
+</album>
+
+
+
+<album>
+379
+I'm Still in Love With You
+Al Green
+15.0
+</album>
+
+<album>
+463
+Meet The Beatles!
+The Beatles
+40.0
+</album>
+
+
+<album>
+380
+Daydream Nation
+Sonic Youth
+35.3
+</album>
+
+
+<album>
+375
+(pronounced 'leh-'nerd 'sk...
+Lynyrd Skynyrd
+35.1
+</album>
+
+
+<album>
+445
+Disraeli Gears
+Cream
+20.3
+</album>
+
+
+
+<album>
+148
+Going to a Go-Go
+Smokey Robinson & The Mira...
+20.0
+</album>
+
+
+<album>
+393
+Horses
+Patti Smith
+35.5
+</album>
+with a trumpet in one hand, and a scroll of parchment in the
