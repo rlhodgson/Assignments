@@ -1,3 +1,7 @@
+import matplotlib.pyplot as plt; plt.rcdefaults()
+import numpy as np
+import matplotlib.pyplot as plt
+
 """This is a program that takes a filename as a  parameter containing information
    about albums. It should prompt the user for a filename, read the information into
    lines, extract the information into a library and then print it in a formatted
@@ -6,6 +10,8 @@
    Date: 25-05-2019
 """
 import os.path #used to check the validity of the filename when prompted
+import matplotlib.pyplot as plt
+
 
 class Album:
     """Stores the information about an album"""
@@ -66,7 +72,7 @@ def get_filename():
     infile = open(filename)
     lines = infile.readlines()
     infile.close()
-    return lines
+    return (lines, filename)
 
         
 def extract_album(lines, index):
@@ -134,8 +140,22 @@ def print_graph(sorted_albums, total_sales):
         lines = "=" * int(percentage)
         print("{:>4}{:>5}% {}".format(album.album_id, percentage, lines))
 
+def print_matplotlib(sorted_albums, total_sales):
+    total_sales = int(total_sales)
+    data = []
+    for album in sorted_albums:
+        percentage = (100 / int(total_sales)) * int(album.total_sold) 
+        album_id = album_id # Some random numbers for testing
+        data.append(percentage)
+    
+    axes = plt.axes()
+    axes.bar(range(total_sales), data, tick_label=album_id)
+    axes.set_title("Album Sales Summary 'filename'")
+    axes.set_xlabel("Album ID")
+    axes.set_ylabel("Percent of Total Sales")
+    plt.show()    
 
-def print_table(album_dict):
+def print_table(album_dict, filename):
     """Prints the information from the functions into a formatted table"""
     print()
     print("Album Catalogue Summary")
@@ -152,13 +172,36 @@ def print_table(album_dict):
     for album in sorted_albums:
         total_sales += int(album.total_sold)
     print_graph(sorted_albums, total_sales)
+    make_barchart(album_dict, sorted_albums, filename, total_sales)
+    
+def make_barchart(album_dict, sorted_albums, filename, total_sales): 
+    albumids = []
+    for albumid, albums in album_dict:
+        albums.append(albumid)
+    
+    albumids = tuple(albumids)
+    y_pos = np.arange(len(albumids))
+    percentage = []
+    
+    for album in sorted_albums:
+        percent = (100 / int(total_sales)) * int(album.total_sold)
+        percent = int(percent)
+        percentage.append(percent)
+    
+    plt.bar(y_pos, percentage, align='center', alpha=0.5)
+    plt.xticks(y_pos, albumids)
+    plt.ylabel('Percentage of total sales')
+    plt.xlabel('Album ID')
+    plt.title('Album sales summary ({})'.format(filename))
+    
+    plt.show()
     
 
 def main():
     """Runs the main code"""
-    lines = get_filename()
+    lines, filename = get_filename()
     album_dictionary = extract_all_albums(lines)
     album_dictionary = read_sales(lines, album_dictionary)
-    print_table(album_dictionary)
+    print_table(album_dictionary, filename)
     
 main()
